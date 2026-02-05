@@ -38,4 +38,4 @@ Rill supports querying data from external catalogs in StarRocks, including Hive,
 
 ## More Information
 
-For detailed configuration options, examples, troubleshooting, and the most up-to-date information, see the [Rill Data StarRocks connector documentation](https://docs.rilldata.com/build/connectors/olap/starrocks).
+For detailed configuration options, examples, troubleshooting, and the most up-to-date information, see the [Rill Data StarRocks connector documentation](https://docs.rilldata.com/developers/build/connectors/olap/starrocks).

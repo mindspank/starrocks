@@ -38,4 +38,4 @@ Rill は、Hive、Iceberg、Delta Lake などの外部データソースを含�
 
 ## その他の情報
 
-詳細な構成オプション、例、トラブルシューティング、および最新の情報については、[Rill Data StarRocks connector のドキュメント](https://docs.rilldata.com/build/connectors/olap/starrocks) を参照してください。
+詳細な構成オプション、例、トラブルシューティング、および最新の情報については、[Rill Data StarRocks connector のドキュメント](https://docs.rilldata.com/developers/build/connectors/olap/starrocks) を参照してください。

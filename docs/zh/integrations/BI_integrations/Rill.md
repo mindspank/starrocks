@@ -38,4 +38,4 @@ StarRocks 支持查询来自 external catalog 的数据，包括 Hive、Iceberg�
 
 ## 更多信息
 
-如需了解详细的配置选项、示例、问题排查以及最新信息，请参阅 [Rill Data StarRocks 连接器文档](https://docs.rilldata.com/build/connectors/olap/starrocks) 。
+如需了解详细的配置选项、示例、问题排查以及最新信息，请参阅 [Rill Data StarRocks 连接器文档](https://docs.rilldata.com/developers/build/connectors/olap/starrocks) 。
